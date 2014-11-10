@@ -6,4 +6,4 @@ var gitFunctions = require('./git/git.js');
 
 var rootFilePath = '../test';
 
-gitFunctions.init(rootFilePath);
+gitFunctions.init(rootFilePath, 'test.txt');

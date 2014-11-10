@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "nodegit": "~0.1.4",
-    "path": "~0.4.9"
+    "path": "~0.4.9",
+    "gift": "~0.4.3-1"
   }
 }
