@@ -1,0 +1,15 @@
+{
+  "name": "node-git-Implementation",
+  "version": "0.0.0",
+  "description": "High level git functions implemented using nodegit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodegit": "~0.1.4",
+    "path": "~0.4.9"
+  }
+}
