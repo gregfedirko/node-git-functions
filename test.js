@@ -6,4 +6,4 @@ var gitFunctions = require('./git/git.js');
 
 var rootFilePath = '../test';
 
-gitFunctions.add(rootFilePath, 'test.txt');
+gitFunctions.commit(rootFilePath, 'changed test.txt');

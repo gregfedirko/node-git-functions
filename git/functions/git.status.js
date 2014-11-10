@@ -12,5 +12,4 @@ module.exports = function(rootFilePath) {
 	 	return status;
 	});
 
-
 };
