@@ -9,6 +9,6 @@ module.exports = function(rootFilePath, callback) {
 	gift.init(resolvedPath, function(err, repo) {
 		if (err) {console.log(err);}
 		console.log(repo);
-	})
+	});
 
 }
